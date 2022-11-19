@@ -1,0 +1,40 @@
+
+.search{
+    padding-top: 25px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+}
+.searchform{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    width: 90%;
+}
+.searchbar{
+    display:flex;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+}
+.searchinput{
+    border: solid lightgray;
+    border-radius: 7px;
+    border-width: 1px;
+    width: 20%;
+    height: 100%;
+    margin-right: 20px;
+    font-size: 100%;
+}
+.searchinput:active{
+    
+}
+.searchselect{
+    margin-right: 20px;
+    border: solid lightgray;
+    border-radius: 7px;
+    border-width: 1px;
+}
